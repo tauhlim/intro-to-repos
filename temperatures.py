@@ -52,3 +52,11 @@ display(df.select(roundedTemp("unit", "temp")))
 # COMMAND ----------
 
 display(df.select(convertFtoC("unit", "temp")))
+
+# COMMAND ----------
+
+# MAGIC %md This is additional markdown content committed on DB Repos.
+
+# COMMAND ----------
+
+
